@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fatheen Ahmed</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
 
+**Some of my websites:**
+[Personal Website](https://fatheen.vercel.app)
+[Inventory Website](https://inventory-manager-drab.vercel.app/)
+[Research Website](https://test-lab-website.vercel.app/)
+[WIP Recipe Gen Website](https://frontend-recipe-ruby.vercel.app/)
+
 - 🔭 I’m currently working on **AI Recipe - A web application that analyzes food images to suggest recipes using Google Cloud and the Spoonacular API.**
 
 - 🌱 I’m currently learning **Further advancing my knowledge in Cloud Computing (AWS), UI/UX Design, and Machine Learning frameworks like TensorFlow.**
